@@ -32,3 +32,6 @@ Antes de rodar o projeto, certifique-se de que você tem o Python instalado em s
    - [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
    - [Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/)
 
+## Vídeo 
+
+[https://www.youtube.com/watch?v=AHNiYdvSUwc](https://www.youtube.com/watch?v=AHNiYdvSUwc)
